@@ -2,7 +2,7 @@
 
 This app is an experimental covid testing that use user review text input to predict the sentiment of the text. This project is created using keras model and trained with the [Amazon Fine Food Reviews Dataset](https://www.kaggle.com/snap/amazon-fine-food-reviews).
 
-![Example](https://github.com/oracl4/SentimentApp/blob/main/image/app.png?raw=true)
+![Example](https://github.com/oracl4/SentimentApp/blob/master/image/app.png?raw=true)
 
 ### Installation
 
