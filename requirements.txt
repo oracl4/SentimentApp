@@ -9,4 +9,4 @@ plotly==4.14.3
 scikit-learn
 scipy
 streamlit==0.83.0
-tensorflow==2.5.0
+tensorflow==2.1.0
