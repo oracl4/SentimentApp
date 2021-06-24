@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-import pickle
+import pickle5 as pickle
 import streamlit as st
 import re
 from PIL import Image
